@@ -1,0 +1,7 @@
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\bin\Debug\5_Desafio_Target_Sistemas.exe.config
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\bin\Debug\5_Desafio_Target_Sistemas.exe
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\bin\Debug\5_Desafio_Target_Sistemas.pdb
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\obj\Debug\5_Desafio_Target_Sistemas.csproj.AssemblyReference.cache
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\obj\Debug\5_Desafio_Target_Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\obj\Debug\5_Desafio_Target_Sistemas.exe
+C:\Users\vitin\source\repos\5_Desafio_Target_Sistemas\5_Desafio_Target_Sistemas\obj\Debug\5_Desafio_Target_Sistemas.pdb
