@@ -28,9 +28,6 @@ namespace _2_Desafio_Target_Sistemas
                 return;
             }
 
-           
-            while (n_atual <= numero)
-            {
                 if (n_atual == numero)
                 {
                     Console.WriteLine($"O número {numero} pertence à sequência de Fibonacci.");
@@ -38,10 +35,10 @@ namespace _2_Desafio_Target_Sistemas
                     return;
                 }
 
-                int proximo = n_anterior + n_atual;
-                n_anterior = n_atual;
-                n_atual = proximo;
-            }
+            int proximo = n_anterior + n_atual;
+            n_anterior = n_atual;
+            n_atual = proximo;
+            
                        
             Console.WriteLine($"O número {numero} NÃO pertence à sequência de Fibonacci.");
             Console.ReadKey();
